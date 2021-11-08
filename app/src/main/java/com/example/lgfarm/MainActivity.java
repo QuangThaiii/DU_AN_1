@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
       String add="test pull";
       String asd="asdasd";
+        String as123d="asdasd";
+
     }
 }
